@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Yogesh Devidas patil</h1>
+<h1 align="center">Hey,I'm Yogesh Devidas patil</h1>
 <h3 align="center">Software Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg"/>

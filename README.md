@@ -1,7 +1,7 @@
 <h1 align="center">Hey👋🏻,I'm Yogesh Devidas patil</h1>
 <h3 align="center">Software Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ntc.edu%2Facademics-training%2Fprograms%2Fall%2Fassociate-degree%2Fit-software-developer&psig=AOvVaw00BITRFaUTrNkMy8m0er1Z&ust=1727152462563000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiljrue2IgDFQAAAAAdAAAAABAn"/>
+<img align="right" alt="coding" width="400" src="https://www.ntc.edu/sites/default/files/styles/full_width_16_9/public/2021-06/software-development-specialist.jpg?itok=D8qgVwxb"/>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 

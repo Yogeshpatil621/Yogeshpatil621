@@ -1,4 +1,4 @@
-<h1 align="center">Hey,I'm Yogu Devidas patil</h1>
+<h1 align="center">Hey👋🏻,I'm Yogesh Devidas patil</h1>
 <h3 align="center">Software Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg"/>
@@ -7,11 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **BCb
-- **
-
+- 🌱 I’m currently learning **BCA 
 - 📫 How to reach me **yogeshpatil9551@gmail.com**
-
 - ⚡ Fun fact **I am Funy**
 
 <h3 align="left">Connect with me:</h3>

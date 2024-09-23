@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg"/>
 
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fsoftware%2520developer%2F&psig=AOvVaw1vBwqQW8eqXClKDpEM7MzJ&ust=1727150961838000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDR5e6Y2IgDFQAAAAAdAAAAABAE" alt="yogeshpatil621" /> </p>
+<p align="left"> <img src="" alt="yogeshpatil621" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 

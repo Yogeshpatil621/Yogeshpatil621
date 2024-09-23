@@ -1,7 +1,7 @@
 <h1 align="center">Hey👋🏻,I'm Yogesh Devidas patil</h1>
 <h3 align="center">Software Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?q=software%20developer%20image&imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2021%2F08%2F04%2F13%2F06%2Fsoftware-developer-6521720_1280.jpg&imgrefurl=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fsoftware%2520developer%2F&docid=xY9x66WqFfYFOM&tbnid=f1YS3Xc4J4Y8NM&vet=12ahUKEwiospPlnNiIAxXnyzgGHaknKQgQM3oECB4QAA..i&w=1280&h=854&hcb=2&ved=2ahUKEwiospPlnNiIAxXnyzgGHaknKQgQM3oECB4QAA"/>
+<img align="right" alt="coding" width="400" src=https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg"/>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 

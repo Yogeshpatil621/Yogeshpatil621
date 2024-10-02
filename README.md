@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Yogesh Devidas patil</h1>
 <h3 align="center">Software Developer</h3>
-<img align="right" alt="coding" width="400" src="https://user- images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fdeveloper%2F&psig=AOvVaw26NpUkbD_rcaFsyjSXzffp&ust=1727959078104000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDgz6nb74gDFQAAAAAdAAAAABAE">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshpatil621&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshpatil621" /> </p>
 
 - 🌱 I’m currently learning **BCA**

@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Yogesh Devidas patil</h1>
 <h3 align="center">Software Developer</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_640.jpg">
+<img align="right" alt="coding" width="400" src="![Uploading image.png…]()
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshpatil621&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshpatil621" /> </p>
 
 - 🌱 I’m currently learning **BCA**

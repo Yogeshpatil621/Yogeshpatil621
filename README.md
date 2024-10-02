@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Yogesh Devidas patil</h1>
 <h3 align="center">Software Developer</h3>
-<img align="right" alt="Coding" width="400 src="C:\Users\Smart\Downloads\y.jpg">
+<img align="right" alt="Coding" width="400 src="https://user-images.githubusercontent...">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshpatil621&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshpatil621" /> </p>
 

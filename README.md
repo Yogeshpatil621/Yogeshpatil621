@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Yogesh Devidas patil</h1>
 <h3 align="center">Software Developer</h3>
-<img align="right" alt="Coding" width="400 src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
+<img align="right" alt="Coding" width="400 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3rGytuh9q6F3BfqHGrljAS&ust=1727958139527000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCr9-zX74gDFQAAAAAdAAAAABAK">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshpatil621&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshpatil621" /> </p>
 
@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogeshpatil621&show_icons=true&locale=en" alt="yogeshpatil621" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshpatil621&" alt="yogeshpatil621" /></p>
+

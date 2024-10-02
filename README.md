@@ -1,12 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm Yogesh Devidas patil</h1>
-<h2 align="center">Software Developer</h2>
+<h3 align="center">Software Developer</h3>
 <img align="right" alt="Coding" width="400 src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshpatil621&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshpatil621" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogeshpatil621" alt="yogeshpatil621" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **BCA**
 

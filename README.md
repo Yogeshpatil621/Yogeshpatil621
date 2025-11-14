@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshpatil621&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshpatil621" /> </p>
 
-- 🌱 I’m currently learning **BCA**
+- 🌱 I’m currently Working  **Software Developer | SQL Developer | Python Developer
+Pune, Maharashtra, India**
 
 - 📫 How to reach me **yogeshpatil9551@gmail.com**
 
